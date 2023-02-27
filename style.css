@@ -635,4 +635,8 @@
     font-weight: 50;
 }
 
-
+.footer1{
+    background: #ffffff92;
+    backdrop-filter: blur(50px);
+    height: 450px;
+}
